@@ -1,0 +1,2 @@
+scoreboard objectives add ontopia_tmp_playtime minecraft.custom:play_time
+scoreboard objectives add ontopia_tmp_disconects minecraft.custom:leave_game
